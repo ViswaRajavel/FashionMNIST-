@@ -9,10 +9,10 @@ The Fashion MNIST dataset contains 70,000 grayscale images of 10 clothing catego
 Categories: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot.
 Source: Fashion MNIST Dataset on Zalando Research (https://github.com/zalandoresearch/fashion-mnist)
 
-# Technologies Used :
+# Technologies Used 
 - Programming Language: Python 3.8
 - Environment: Jupyter Notebook
-Libraries:
+* Libraries:
 - Model Training & Evaluation : Scikit-Learn 
 - Image Processing - OpenCV, Scikit-Image 
 - Data Visualisation - Matplotlib 

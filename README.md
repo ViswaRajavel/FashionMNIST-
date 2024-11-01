@@ -12,7 +12,7 @@ Source: Fashion MNIST Dataset on Zalando Research (https://github.com/zalandores
 # Technologies Used 
 - Programming Language: Python 3.8
 - Environment: Jupyter Notebook
-* Libraries:
+# Libraries:
 - Model Training & Evaluation : Scikit-Learn 
 - Image Processing - OpenCV, Scikit-Image 
 - Data Visualisation - Matplotlib 

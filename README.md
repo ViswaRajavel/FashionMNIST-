@@ -7,12 +7,12 @@ This project is a practical exploration designed to enhance understanding of mac
 # Dataset: Fashion MNIST
 The Fashion MNIST dataset contains 70,000 grayscale images of 10 clothing categories, split into 60,000 training images and 10,000 test images. Each image is 28x28 pixels in size.
 Categories: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot.
-Source: Fashion MNIST Dataset on Zalando Research ( https://github.com/zalandoresearch/fashion-mnist )
+Source: Fashion MNIST Dataset on Zalando Research (https://github.com/zalandoresearch/fashion-mnist)
 
 # Technologies Used :
-Programming Language: Python 3.8
+- Programming Language: Python 3.8
+- Environment: Jupyter Notebook
 Libraries:
-Model Training & Evaluation : Scikit-Learn 
-Image Processing - OpenCV, Scikit-Image 
-Data Visualisation - Matplotlib 
-Environment: Jupyter Notebook
+- Model Training & Evaluation : Scikit-Learn 
+- Image Processing - OpenCV, Scikit-Image 
+- Data Visualisation - Matplotlib 
